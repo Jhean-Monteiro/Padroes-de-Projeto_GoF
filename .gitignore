@@ -1,6 +1,2 @@
 build/
-# Executáveis compilados (sem extensão, dentro das pastas de padrões)
-*_test
-
-# Executáveis compilados (sem extensão, dentro das pastas de padrões)
 *_test
